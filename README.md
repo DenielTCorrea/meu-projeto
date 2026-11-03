@@ -1,3 +1,11 @@
+Olá! Meu nome é Deniel Tillmann Correa e sou estudante de Análise e Desenvolvimento de Sistemas.
+
+Tenho grande interesse em desenvolvimento de software e resolução de problemas através do código. Atualmente, estou focando no aprendizado construindo projetos práticos para consolidar conceitos de estrutura de dados, algoritmos e boas práticas de desenvolvimento.
+
+💼 Objetivo: Buscando oportunidades para aplicar e expandir meus conhecimentos no mercado de tecnologia.
+🌐 LinkedIn: Deniel Tillmann Correa
+✉️ Contato: deniel.tillmannc@gmail.com
+
 # Lista para armazenar os produtos do estoque
 estoque = []
 

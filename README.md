@@ -17,8 +17,8 @@ Buscando oportunidades de estágio ou início de carreira para aplicar e expandi
 * **Ferramentas:** Git, GitHub, VS Code
 
 ## 🌐 Conecte-se Comigo
-* **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/deniel-tillmann-correa-a2797a323)[cite: 1]
-* **Instagram Profissional:** [@DenieltillmannADS](https://instagram.com/DenieltillmannADS)[cite: 1]
+* **LinkedIn:** link(https://www.linkedin.com/in/deniel-tillmann-correa-a2797a323)
+* **Instagram Profissional:** [@DenieltillmannADS](https://instagram.com/DenieltillmannADS)
 * **E-mail de Contato:** deniel.tillmannc@gmail.com
 
 # Lista para armazenar os produtos do estoque

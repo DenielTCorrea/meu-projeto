@@ -1,62 +1,47 @@
-# Olá, eu sou o Deniel! 👋
+<h1 align="center">Deniel Tillmann Correa</h1>
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas · Em busca de estágio em tecnologia
+</p>
 
-## 👨‍💻 Apresentação Profissional
-Olá! Meu nome é **Deniel Tillmann Correa** e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho grande interesse em desenvolvimento de software e resolução de problemas através do código. Atualmente, estou focando no aprendizado e na construção de projetos práticos para consolidar conceitos de estruturas de dados, algoritmos e boas práticas de desenvolvimento.
+<p align="center">
+  <a href="https://www.linkedin.com/in/deniel-tillmann-correa-a2797a323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:deniel.tillmannc@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://instagram.com/DenieltillmannADS"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-## 🎯 Objetivos Profissionais
-Buscando oportunidades de estágio ou início de carreira para aplicar e expandir meus conhecimentos no mercado de tecnologia, colaborando em equipes dinâmicas e entregando soluções eficientes.
+---
 
-## 🚀 Áreas de Interesse
-* Desenvolvimento de Software (Full Stack / Backend / Frontend)
-* Banco de Dados e Modelagem de Dados
-* Lógica de Programação e Algoritmos
+## Sobre mim
 
-## 🛠️ Tecnologias de Interesse
-* **Linguagens:** Python, JavaScript
-* **Banco de Dados:** SQL / MySQL
-* **Ferramentas:** Git, GitHub, VS Code
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho grande interesse em desenvolvimento de software e na resolução de problemas por meio do código. Atualmente, foco na construção de projetos práticos para consolidar conhecimentos em **estruturas de dados, algoritmos e boas práticas de desenvolvimento**.
 
-## 🌐 Conecte-se Comigo
-* **LinkedIn:** https://www.linkedin.com/in/deniel-tillmann-correa-a2797a323
-* **Instagram Profissional:** [@DenieltillmannADS](https://instagram.com/DenieltillmannADS)
-* **E-mail de Contato:** deniel.tillmannc@gmail.com
+## Objetivo profissional
 
-# Lista para armazenar os produtos do estoque
+Busco uma oportunidade de **estágio ou início de carreira** na área de tecnologia, onde possa aplicar e expandir meus conhecimentos, colaborar com equipes dinâmicas e entregar soluções eficientes.
 
-    
-    #include <stdio.h>
-estoque = []
+## Áreas de interesse
 
-def exibir_menu():
-    print("\n--- GERENCIADOR DE ESTOQUE ---")
-    print("1. Cadastrar Produto")
-    print("2. Listar Produtos")
-    print("3. Sair")
+- Desenvolvimento de Software (Full Stack, Back-end e Front-end)
+- Banco de Dados e Modelagem de Dados
+- Lógica de Programação e Algoritmos
 
- while True:
-    exibir_menu()
-    opcao = input("Escolha uma opção: ")
+## Tecnologias
 
-    if opcao == "1":
-        nome = input("Nome do produto: ")
-        quantidade = int(input("Quantidade: "))
-        preco = float(input("Preço unitário: "))
-        
-        # Salvando em um dicionário
-        produto = {"nome": nome, "quantidade": quantidade, "preco": preco}
-        estoque.append(produto)
-        print(f"Produto '{nome}' cadastrado com sucesso!")
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-    elif opcao == "2":
-        print("\n--- LISTA DE PRODUTOS ---")
-        if len(estoque) == 0:
-            print("Estoque vazio.")
-        else:
-            for i, p in enumerate(estoque):
-                print(f"{i+1}. Nome: {p['nome']} | Qtd: {p['quantidade']} | Preço: R$ {p['preco']:.2f}")
+## Projetos em destaque
 
-    elif opcao == "3":
-        print("Saindo do sistema. Até mais!")
-        break
-    else:
-        print("Opção inválida, tente novamente.")
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Gerenciador de Estoque](https://github.com/SEU-USUARIO/gerenciador-estoque) | Sistema de linha de comando para cadastro e listagem de produtos | Python |
+
+## Contato
+
+- **LinkedIn:** [deniel-tillmann-correa](https://www.linkedin.com/in/deniel-tillmann-correa-a2797a323)
+- **E-mail:** [deniel.tillmannc@gmail.com](mailto:deniel.tillmannc@gmail.com)
+- **Instagram profissional:** [@DenieltillmannADS](https://instagram.com/DenieltillmannADS)

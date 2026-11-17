@@ -22,6 +22,7 @@ Buscando oportunidades de estágio ou início de carreira para aplicar e expandi
 * **E-mail de Contato:** deniel.tillmannc@gmail.com
 
 # Lista para armazenar os produtos do estoque
+#include <stdio.h>
 estoque = []
 
 def exibir_menu():
@@ -30,7 +31,7 @@ def exibir_menu():
     print("2. Listar Produtos")
     print("3. Sair")
 
-while True:
+ while True:
     exibir_menu()
     opcao = input("Escolha uma opção: ")
 

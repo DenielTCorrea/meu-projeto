@@ -1,16 +1,25 @@
-Olá! Meu nome é Deniel Tillmann Correa e sou estudante de Análise e Desenvolvimento de Sistemas.
+# Olá, eu sou o Deniel! 👋
 
-Tenho grande interesse em desenvolvimento de software e resolução de problemas através do código. Atualmente, estou focando no aprendizado construindo projetos práticos para consolidar conceitos de estrutura de dados, algoritmos e boas práticas de desenvolvimento.
+## 👨‍💻 Apresentação Profissional
+Olá! Meu nome é **Deniel Tillmann Correa** e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho grande interesse em desenvolvimento de software e resolução de problemas através do código. Atualmente, estou focando no aprendizado e na construção de projetos práticos para consolidar conceitos de estruturas de dados, algoritmos e boas práticas de desenvolvimento.
 
-Objetivo: Buscando oportunidades para aplicar e expandir meus conhecimentos no mercado de tecnologia.
+## 🎯 Objetivos Profissionais
+Buscando oportunidades de estágio ou início de carreira para aplicar e expandir meus conhecimentos no mercado de tecnologia, colaborando em equipes dinâmicas e entregando soluções eficientes.
 
-áreas de interesse:
-*desenvolvimento de softaware
-*banco de dados
+## 🚀 Áreas de Interesse
+* Desenvolvimento de Software (Full Stack / Backend / Frontend)
+* Banco de Dados e Modelagem de Dados
+* Lógica de Programação e Algoritmos
 
-🌐 LinkedIn: www.linkedin.com/in/deniel-tillmann-correa-a2797a323
-💻 Instagram: @DenieltillmannADS
-✉️ Contato: deniel.tillmannc@gmail.com
+## 🛠️ Tecnologias de Interesse
+* **Linguagens:** Python, JavaScript
+* **Banco de Dados:** SQL / MySQL
+* **Ferramentas:** Git, GitHub, VS Code
+
+## 🌐 Conecte-se Comigo
+* **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/deniel-tillmann-correa-a2797a323)[cite: 1]
+* **Instagram Profissional:** [@DenieltillmannADS](https://instagram.com/DenieltillmannADS)[cite: 1]
+* **E-mail de Contato:** deniel.tillmannc@gmail.com
 
 # Lista para armazenar os produtos do estoque
 estoque = []

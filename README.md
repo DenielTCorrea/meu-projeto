@@ -22,7 +22,9 @@ Buscando oportunidades de estágio ou início de carreira para aplicar e expandi
 * **E-mail de Contato:** deniel.tillmannc@gmail.com
 
 # Lista para armazenar os produtos do estoque
-#include <stdio.h>
+
+    
+    #include <stdio.h>
 estoque = []
 
 def exibir_menu():
